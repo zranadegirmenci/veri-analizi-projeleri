@@ -1,6 +1,6 @@
 # Veri Analitiği ve İş Zekası Portfolyosu
 
-Bu depo; e-ticaret, perakende ve tüketici davranışları alanlarında Python, Pandas, Matplotlib ve Seaborn kullanılarak gerçekleştirilmiş uçtan uca veri analitiği vaka çalışmalarını içermektedir.
+Bu depo; e-ticaret, tüketici davranışları ve sağlık bilişimi alanlarında Python, Pandas, Matplotlib ve Seaborn kullanılarak gerçekleştirilmiş uçtan uca veri analitiği vaka çalışmalarını içermektedir.
 
 ---
 
@@ -15,3 +15,10 @@ Bu depo; e-ticaret, perakende ve tüketici davranışları alanlarında Python, 
 * **Dosya:** `tuketici_harcama_ve_gelir_analitigi.ipynb`
 * **Odak:** Gerçek dünya harcama verisi üzerinden gün/servis saatlerine göre ciro dağılımı ve çok değişkenli korelasyon modellemesi.
 * **Yöntemler:** Pandas GroupBy Agregasyonu, Scatter Plot, Donut Chart, Seaborn Correlation Heatmap, Vardiya & Promosyon Aksiyon Planı.
+
+---
+
+## 📁 Proje 3: Sağlık Bilişimi ve Hastane Operasyonel Verimlilik Analitiği
+* **Dosya:** `hastane_randevu_ve_kapasite_analitigi.ipynb`
+* **Odak:** Poliklinik bazlı bekleme süreleri, randevuya gelmeme (no-show) oranları ve hekim kapasite darboğazlarının analizi.
+* **Yöntemler:** Aykırı Değer Tespiti (Boxplot), İki Boyutlu Çapraz Tablo (Pivot Table), Donut Chart, Klinik Aksiyon ve Kapasite Planı.
